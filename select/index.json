@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スターダストメドレー（feat. Hatsune Miku）",
+  "base_artist": "きさら",
+  "createdAt": "2026-01-12T10:56:14.267487Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スターダストメドレー (feat. 初音ミク)",
+      "artist": "きさら",
+      "has_synced": false,
+      "path": "select/pl_01_スターダストメドレー_(feat._初音ミク)_きさら.txt"
+    }
+  ]
+}
